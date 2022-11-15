@@ -3,4 +3,4 @@
 	url = https://github.com/douglasaturnino/rossmann-model-dso
 [submodule "rossmann-dso-bot"]
 	path = rossmann-dso-bot
-	url = https://git.heroku.com/rossmann-dso-bot.git
+	url = https://github.com/douglasaturnino/rossmann-dso-bot.git
