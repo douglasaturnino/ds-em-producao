@@ -1,6 +1,6 @@
 [submodule "rossmann-model-dso"]
 	path = rossmann-model-dso
-	url = https://git.heroku.com/rossmann-model-dso.git
+	url = https://github.com/douglasaturnino/rossmann-model-dso
 [submodule "rossmann-dso-bot"]
 	path = rossmann-dso-bot
 	url = https://git.heroku.com/rossmann-dso-bot.git
