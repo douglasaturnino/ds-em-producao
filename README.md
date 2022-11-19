@@ -1,7 +1,7 @@
 Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog  da [Comunidade DS](https://www.comunidadedatascience.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/).
 
 O notebook com todos os passos realizados está disponivel [aqui](https://github.com/douglasaturnino/ds-em-producao/blob/master/notebooks/m10_v01_store_sales_prediction.ipynb).
-O BOT com os produtos de dados em produção pode ser acessado via Telegram, pesquisando por [rossmann_dso_bot](http://t.me/rossmann_dso_bot). Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o heroku depois de um tempo sem uso desliga a aplicação.
+O BOT com os produtos de dados em produção pode ser acessado via Telegram, pesquisando por [rossmann_dso_bot](http://t.me/rossmann_dso_bot). Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação.
 O dataset está disponivel no [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data).
 
 
@@ -56,7 +56,7 @@ Quais ferramentas serão usadas no processo?
 - Git, Github;
 - Python;
 - Telegram;
-- Cloud Heroku.
+- Cloud Render.
  ## 4. Os 3 principais insights dos dados
 
 #### 1 Lojas com competidores mais próximos deveriam vender menos.
