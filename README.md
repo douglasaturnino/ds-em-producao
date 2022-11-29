@@ -87,6 +87,9 @@ De acordo com os critérios definidos, foi feita uma previsão de vendas das pr�
 
 O Bot no Telegram pode ser  acessado por [rossmann_dso_bot](http://t.me/rossmann_dso_bot).
 
+Abaixo mostra um exemplo de uso do bot para fazer a previsão de vendas.
+
+<img src="https://user-images.githubusercontent.com/95532957/204401359-98453aca-c0e7-48b8-a4fb-2dddeedf7e58.gif" title="Exemplo de uso" lign="center" height="400" class="center"/>
 
 ## 7. Próximos passos
 
